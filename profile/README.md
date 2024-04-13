@@ -7,4 +7,4 @@ DeVolt is a descentralized solution focused on providing the eletricity needed f
 
 ## Teaser video:
 
-[![DeVolt](https://img.youtube.com/vi/GrCtolx6kp4/0.jpg)](https://www.youtube.com/watch?v=GrCtolx6kp4)
+Link: [https://www.youtube.com/watch?v=GrCtolx6kp4](https://www.youtube.com/watch?v=GrCtolx6kp4)
